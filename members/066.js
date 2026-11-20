@@ -4,9 +4,9 @@ addMember({
   name: "河野壮哉",
   kana: "こうのそうや",
   color: "blue",
-  avatar: "assets/066-avatar-2toshin.png",
+  avatar: "assets/066-avater.png",
   avatarAlt: "066のアバター",
-  heroAvatar: "assets/066-avatar.png",
+  heroAvatar: "assets/066-avater.png",
   heroSize: "tall",
 
   intro:
