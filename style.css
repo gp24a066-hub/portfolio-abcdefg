@@ -903,3 +903,9 @@ a.member-card:focus-visible {
     justify-content: center;
   }
 }
+
+/* 自己紹介・詳細の中の改行（\n）をそのまま表示する */
+.member-intro,
+.member-details dd {
+  white-space: pre-line;
+}
