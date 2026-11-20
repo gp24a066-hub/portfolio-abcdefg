@@ -1,15 +1,15 @@
 addMember({
   id: "152",
-  name: "152",
-  kana: "",
+  name: "藤崎晋伍",
+  kana: "ふじさきしんご",
   color: "coral",
   avatar: "assets/152-avatar.png",
-  avatarAlt: "釣り竿を持った152のアバター",
+  avatarAlt: "藤崎晋伍のアバター",
   heroAvatar: "assets/152-avatar.png",
   heroSize: "wide",
-  intro: "アウトドアとインドア両方大好きです。",
+  intro: "インドアです。",
   details: [
-    ["好きなこと", "釣り"],
+    ["好きなこと", "スマホゲーム"],
     ["ひとこと", "よろしくお願いします。"],
   ],
 
