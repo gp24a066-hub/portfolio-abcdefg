@@ -1,8 +1,8 @@
 
 addMember({
   id: "066",
-  name: "066",
-  kana: "",
+  name: "河野壮哉",
+  kana: "こうのそうや",
   color: "blue",
   avatar: "assets/066-avatar-2toshin.png",
   avatarAlt: "066のアバター",
